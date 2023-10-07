@@ -1,0 +1,11 @@
+1. Github Account
+
+2. Create Empty Repo on Github and same Repo on your Local Server
+
+3. local system
+   3.1 git config --global user.name "_"
+   3.2 git config --global user.email "_"
+
+4. git push origin -u master 
+   4.1 username? --> Your github username
+   4.2 password? --> Github token
