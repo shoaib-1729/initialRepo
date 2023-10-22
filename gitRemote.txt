@@ -6,10 +6,10 @@
    3.1 git config --global user.name "_"
    3.2 git config --global user.email "_"
 
-4. git push origin -u master 
+4. link local repo to remote server using command --> git remote add repoURL.git
+
+5. git push origin -u master 
    4.1 username? --> Your github username
    4.2 password? --> Github token
 
-local changes
 
-new changes to merge
